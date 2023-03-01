@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    width:100px;
+    border-style: dashed;
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    margin-top : 50px;
+}
+
+.container:hover {
+    background-color:  gray;
+}
